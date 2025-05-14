@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-13T17:49:28 IST" name="Suite" finished-at="2025-05-13T17:49:50 IST" duration-ms="22216">
+    <groups>
+    </groups>
+    <test started-at="2025-05-13T17:49:28 IST" name="Test" finished-at="2025-05-13T17:49:50 IST" duration-ms="22216">
+      <class name="Browser_Init.Placing_order">
+        <test-method is-config="true" signature="browserInitialize()[pri:0, instance:Browser_Init.Placing_order@399f45b1]" started-at="2025-05-13T17:49:28 IST" name="browserInitialize" finished-at="2025-05-13T17:49:30 IST" duration-ms="2209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInitialize -->
+        <test-method signature="goTo()[pri:1, instance:Browser_Init.Placing_order@399f45b1]" started-at="2025-05-13T17:49:30 IST" name="goTo" finished-at="2025-05-13T17:49:33 IST" duration-ms="2342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goTo -->
+        <test-method signature="login()[pri:2, instance:Browser_Init.Placing_order@399f45b1]" started-at="2025-05-13T17:49:33 IST" name="login" finished-at="2025-05-13T17:49:33 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="productList()[pri:3, instance:Browser_Init.Placing_order@399f45b1]" started-at="2025-05-13T17:49:33 IST" name="productList" finished-at="2025-05-13T17:49:36 IST" duration-ms="3131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productList -->
+        <test-method signature="cartPage()[pri:4, instance:Browser_Init.Placing_order@399f45b1]" started-at="2025-05-13T17:49:36 IST" name="cartPage" finished-at="2025-05-13T17:49:41 IST" duration-ms="4820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartPage -->
+        <test-method signature="paymentPage()[pri:5, instance:Browser_Init.Placing_order@399f45b1]" started-at="2025-05-13T17:49:41 IST" name="paymentPage" finished-at="2025-05-13T17:49:48 IST" duration-ms="7230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentPage -->
+        <test-method signature="orderpageValidation()[pri:6, instance:Browser_Init.Placing_order@399f45b1]" started-at="2025-05-13T17:49:48 IST" name="orderpageValidation" finished-at="2025-05-13T17:49:50 IST" duration-ms="2199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderpageValidation -->
+      </class> <!-- Browser_Init.Placing_order -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
